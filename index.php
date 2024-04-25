@@ -29,7 +29,7 @@
 <body>
 
   <!-- Header -->
-  <h1>Hot or Cold in JS</h1>
+  <h1>Hot or Cold in PHP</h1>
 
   <!-- FORM -->
   <form id="inputForm" method="post" action="results.php" target="resultFrame">
@@ -43,8 +43,8 @@
           <br>
         </td>
         <td>
-          <!-- Image of JS LOGO -->
-          <img class="contentImg" src="./images/jsLogo.png" alt="javascript Logo!">
+          <!-- Image of PHP LOGO -->
+          <img class="contentImg" src="./images/phpLogo.svg" alt="PHP Logo!">
           <br>
         </td>
       </tr>
